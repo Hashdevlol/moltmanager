@@ -1,0 +1,14 @@
+{
+  "name": "moltmanager",
+  "version": "0.1.0",
+  "description": "A local CLI tool to create, manage, and organize AI agent personas (moltbots^)",
+  "main": "dist/index.js",
+  "bin": {
+    "molt": "./dist/cli.js"
+  },
+  "author": "@0xHashlol",
+  "license": "MIT",
+  "engines": {
+    "node": "^>^=14.0.0"
+  }
+}
